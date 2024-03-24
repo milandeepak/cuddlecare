@@ -30,5 +30,6 @@ python classify.py --model baby.tflite --overlappingFactor 0.75
 ![Demo](https://github.com/milandeepak/cuddlecare/blob/076e2c1b8c53b9c5891aa0c18bcf57a6bdc52e2b/demo.gif)
 
 2. Demo of the graphical interface and the motor that will rock the cradle
+
 https://github.com/milandeepak/cuddlecare/assets/71485068/34edbee6-0de6-4670-8133-c6fcb6d84199
 
