@@ -3,7 +3,7 @@
 ## Description
 Our project basically is a smart cradle that
 - Rocks itself when the baby starts crying and ceases when the crying subsides
-- Transmits the temperature and humidity around the cradle
+- Transmits the temperature and humidity around the cradle to a website
 
 ## Tech used
 - Tensorflow lite model for cry detection
